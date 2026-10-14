@@ -27,7 +27,7 @@ I am developing my technical skills in data analytics through hands-on projects 
 - **Skills:** Data Cleaning, Exploratory Data Analysis, Statistical Analysis, Data Visualization
 - **Technology:** Python, Pandas, Matplotlib
 - **Results:** To be added after completing the analysis.
-- **Repository:** [View Project](https://github.com/YOUR-USERNAME/movie-analysis)
+- **Repository:** [View Project](https://github.com/TarikArcher/Movie-Popularity-Analysis)
 
 ### 2. SQL Data Analysis Project
 **Business Performance and Trend Analysis**
