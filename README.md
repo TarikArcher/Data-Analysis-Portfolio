@@ -52,8 +52,10 @@ I am developing my technical skills in data analytics through hands-on projects 
 ## Education
 
 **University of Florida**
-Bachelor of Arts in English  
-Minor in Business Administration | May 2025
+Masters of Sciences Business Analytics | May 2028
+
+**University of Florida**
+Bachelor of Arts in English | May 2025
 
 ## Professional Background
 
@@ -71,6 +73,6 @@ Experience in marketing communications, social media strategy, content developme
 
 ## Contact
 
-- **GitHub:** [View My Repositories](https://github.com/YOUR-USERNAME)
-- **LinkedIn:** [Add LinkedIn Profile URL]
-- **Resume:** [Add Resume PDF Link]
+- **GitHub:** [View My Repositories](https://github.com/TarikArcher/Data-Analysis-Portfolio)
+- **LinkedIn:** [https://www.linkedin.com/in/tarik-archer/]
+- **Resume:** [https://github.com/TarikArcher/Data-Analysis-Portfolio/blob/main/TA_ResumeAnalytics.pdf]
