@@ -28,6 +28,7 @@ I am developing my technical skills in data analytics through hands-on projects 
 - **Technology:** Python, Pandas, Matplotlib
 - **Results:** To be added after completing the analysis.
 - **Repository:** [View Project](https://github.com/TarikArcher/Movie-Popularity-Analysis)
+- [View Project Conclusions]( https://github.com/TarikArcher/Movie-Popularity-Analysis/blob/main/IMDb_Movie_Popularity_Analysis.ipynb ) 
 
 ### 2. SQL Data Analysis Project
 **Business Performance and Trend Analysis**
