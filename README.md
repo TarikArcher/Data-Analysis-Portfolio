@@ -50,6 +50,18 @@ I am developing my technical skills in data analytics through hands-on projects 
 - **Results:** To be added after completing the analysis.
 - **Repository:** Coming Soon
 
+
+### 4. FNN Inventory Tracking System
+**Excel-Based Inventory Management and Operational Tracking**
+
+- **Goal:** Develop a functional inventory tracking system to organize inventory records, monitor component relationships, and track associated costs.
+- **Description:** Design an Excel-based inventory management workbook that structures inventory data, tracks individual components used in assembled products, and supports organized recordkeeping and operational efficiency.
+- **Skills:** Data Organization, Inventory Management, Spreadsheet Design, Process Improvement, Data Management
+- **Technology:** Microsoft Excel
+- **Results:** Developed a functional inventory tracking workbook featuring structured inventory records, component relationships, and cost tracking capabilities.
+- **Privacy Disclaimer:** To respect the privacy and confidentiality of Fire Neural Network (FNN), all item IDs, item names, and costs are hypothetical and do not represent actual company inventory or financial information. The Excel workbook is fully functional for its intended demonstration purposes.
+- **Repository:** [FNN Inventory Tracking System](https://github.com/TarikArcher/FNN-Inventory-Tracking-System)
+
 ## Education
 
 **University of Florida**
