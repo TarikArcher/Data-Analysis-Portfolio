@@ -2,6 +2,9 @@
 # Tarik Archer
 ### Data Analyst | Marketing & Communications | Data Science
 
+-**Website Link:**[tarikarcher.github.io](https://tarikarcher.github.io/#contact)
+-**Website Repository:**[View Repository](https://github.com/TarikArcher/TarikArcher.github.io/blob/main/index.html)
+
 ## About Me
 
 I am a Data Analyst with a background in marketing and communications, interested in using data to support business strategy, improve decision-making, and identify trends in audience behavior.
