@@ -2,7 +2,7 @@
 # Tarik Archer
 ### Data Analyst | Marketing & Communications | Data Science
 
--**Website Link:**[tarikarcher.github.io](https://tarikarcher.github.io/#contact)
+-**Website Link:**[tarikarcher.github.io](https://tarikarcher.github.io/)
 -**Website Repository:**[View Repository](https://github.com/TarikArcher/TarikArcher.github.io/blob/main/index.html)
 
 ## About Me
